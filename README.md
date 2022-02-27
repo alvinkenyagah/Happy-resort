@@ -3,7 +3,7 @@
 #### Simple webpage of destinations offered by Happy resort travel agency Tuesday, February 22 2022
 #### By **Alvin Kenyagah**
 ## Description
-Simple webpages to help me increase my web development skills.
+Simple webpages to help me increase my web development skills. More features will be added soon.
 ## Setup/Installation Requirements
 * Browser.
 * An internet connection.
