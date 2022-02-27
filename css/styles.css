@@ -1,0 +1,36 @@
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+
+h2.tropical {
+  color: #f7325e;
+  font-style: italic;
+}
+p.tropical {
+  font-family: fantasy;
+  line-height: 30px;
+  color: #61a7c8;
+}
+.tropic {
+  font-style: italic;
+  text-align: center;
+  color: olive;
+}
+h2.popular {
+  color: #d55720;
+  font-style: italic;
+}
+.mal {
+  font-style: italic;
+  color: rgb(100, 120, 177);
+}
+p.mal2 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 0.7cm;
+  line-height: 30px;
+  color: black;
+  background-color: #e8ebec;
+}
