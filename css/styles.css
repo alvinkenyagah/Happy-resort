@@ -10,11 +10,13 @@ h2.tropical {
   font-style: italic;
 }
 p.tropical {
+   border: 1px solid#B2B2B2;
   font-family: fantasy;
   line-height: 30px;
   color: #61a7c8;
 }
 .tropic {
+   border: 1px solid#B2B2B2;
   font-style: italic;
   text-align: center;
   color: olive;
@@ -24,10 +26,12 @@ h2.popular {
   font-style: italic;
 }
 .mal {
+   border: 1px solid#B2B2B2;
   font-style: italic;
   color: rgb(100, 120, 177);
 }
 p.mal2 {
+   border: 1px solid#B2B2B2;
   font-family: "Times New Roman", Times, serif;
   font-size: 0.7cm;
   line-height: 30px;
